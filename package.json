@@ -19,5 +19,9 @@
                 "path": "./themes/yellow-line-dark.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dthwalker/yellow-line-theme"
     }
 }
