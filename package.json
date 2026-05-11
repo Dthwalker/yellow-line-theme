@@ -2,7 +2,7 @@
     "name": "yellow-line-theme",
     "displayName": "YELLOW LINE Theme",
     "description": "A VS Code theme born from the Megastructure. The Yellow Line speaks. The Directive continues.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "DTHWalker",
     "engines": {
         "vscode": "^1.0.0"
