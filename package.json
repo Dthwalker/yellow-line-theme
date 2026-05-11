@@ -14,14 +14,15 @@
     "contributes": {
         "themes": [
             {
-                "label": "YELLOW LINE Dark",
+                "label": "YELLOW LINE — Terminal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/yellow-line-dark.json"
+                "path": "./themes/yellow-line-terminal.json"
             }
         ]
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/Dthwalker/yellow-line-theme"
-    }
+    },
+    "license": "MIT"
 }
