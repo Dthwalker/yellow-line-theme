@@ -1,0 +1,23 @@
+{
+    "name": "yellow-line-theme",
+    "displayName": "YELLOW LINE Theme",
+    "description": "A VS Code theme born from the Megastructure. The Yellow Line speaks. The Directive continues.",
+    "version": "1.0.0",
+    "publisher": "DTHWalker",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "YELLOW LINE Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/yellow-line-dark.json"
+            }
+        ]
+    }
+}
